@@ -3,9 +3,14 @@ builder = "nixpacks"
 buildCommand = "composer install"
 
 [deploy]
-startCommand = "php -S 0.0.0.0:$PORT -t ."
+startCommand = "php -S 0.0.0.0:${PORT:-8080} -t ."
 restartPolicyType = "ON_FAILURE"
 restartPolicyMaxRetries = 10
 
 [phases.setup]
-nixPkgs = ["php", "php81Extensions.curl", "php81Extensions.json"]
+nixPkgs = ["php81", "php81Extensions.curl", "php81Extensions.json"]
+
+[phases.build]
+cmds = [
+    "composer install --no-dev --optimize-autoloader"
+]
