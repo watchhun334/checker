@@ -2,27 +2,21 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-// Get bot token from environment variable
-$botToken = getenv('BOT_TOKEN');
+require_once 'config.php';
 
-if (!$botToken) {
-    die("BOT_TOKEN environment variable is not set");
-}
-
-// Get Railway domain from environment variable
-$domain = getenv('RAILWAY_STATIC_URL');
+// Get the domain from Railway's environment variable
+$domain = getenv('RAILWAY_PUBLIC_DOMAIN');
 
 if (!$domain) {
-    die("RAILWAY_STATIC_URL is not set. Make sure you're running on Railway");
+    // Fallback to current host if not on Railway
+    $domain = $_SERVER['HTTP_HOST'];
 }
 
-// Set webhook URL using Railway domain
+// Set webhook URL
 $webhookUrl = "https://" . $domain . "/bot.php";
 
 // Set webhook URL
-$apiUrl = "https://api.telegram.org/bot{$botToken}/setWebhook";
-
-// Setup webhook
+$apiUrl = "https://api.telegram.org/bot" . BOT_TOKEN . "/setWebhook";
 $data = [
     'url' => $webhookUrl,
     'allowed_updates' => ['message', 'callback_query']
@@ -32,14 +26,14 @@ $ch = curl_init($apiUrl);
 curl_setopt($ch, CURLOPT_POST, 1);
 curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true); // Enable SSL verification for Railway
-curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2);    // Enable host verification
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2);
 
 $response = curl_exec($ch);
 $error = curl_error($ch);
 curl_close($ch);
 
-// Log everything
+// Display results
 echo "<pre>";
 echo "Setting webhook to: " . $webhookUrl . "\n\n";
 echo "Response: " . $response . "\n";
@@ -48,7 +42,7 @@ if ($error) {
 }
 
 // Get current webhook info
-$info = file_get_contents("https://api.telegram.org/bot{$botToken}/getWebhookInfo");
-echo "\nWebhook Info:\n" . $info;
+$info = file_get_contents("https://api.telegram.org/bot" . BOT_TOKEN . "/getWebhookInfo");
+echo "Webhook Info:\n" . $info;
 echo "</pre>";
 ?>
