@@ -5,6 +5,9 @@ debug.log
 webhook_log.txt
 uptime.log
 php-error.log
+composer.phar
+/tmp/
+.DS_Store
 
 
 # Composer
