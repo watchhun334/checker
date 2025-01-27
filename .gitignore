@@ -1,7 +1,10 @@
-/vendor/
+vendor/
 .env
 *.log
-
+debug.log
+webhook_log.txt
+uptime.log
+php-error.log
 
 
 # Composer
