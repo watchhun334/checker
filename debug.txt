@@ -1,0 +1,503 @@
+
+
+
+
+2025-01-25 15:34:46 Raw input: 
+
+2025-01-25 15:34:46 Raw input: 
+
+2025-01-25 15:38:00 Raw data: 
+2025-01-25 15:38:00 Script completed
+2025-01-25 15:38:00 Raw data: 
+2025-01-25 15:38:00 Script completed
+2025-01-25 15:40:46 Raw data length: 0
+2025-01-25 15:40:46 Raw data: 
+2025-01-25 15:40:46 Headers: Array
+(
+    [Host] => 15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Accept-Encoding] => identity, gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Referer] => https://15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1c9%3A
+    [Sec-Ch-Ua] => "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Sec-Fetch-Dest] => iframe
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-Site] => same-origin
+    [Upgrade-Insecure-Requests] => 1
+    [X-Forwarded-For] => 43.246.223.22, 10.84.3.18
+    [X-Forwarded-Proto] => https
+    [X-Replit-User-Bio] => 
+    [X-Replit-User-Id] => 
+    [X-Replit-User-Name] => 
+    [X-Replit-User-Profile-Image] => 
+    [X-Replit-User-Roles] => 
+    [X-Replit-User-Teams] => 
+    [X-Replit-User-Url] => 
+)
+
+2025-01-25 15:40:46 Script completed
+2025-01-25 15:40:46 Raw data length: 0
+2025-01-25 15:40:46 Raw data: 
+2025-01-25 15:40:46 Headers: Array
+(
+    [Host] => 15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Accept-Encoding] => identity, gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Referer] => https://15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar67%3A
+    [Sec-Ch-Ua] => "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Sec-Fetch-Dest] => iframe
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-Site] => same-origin
+    [Upgrade-Insecure-Requests] => 1
+    [X-Forwarded-For] => 43.246.223.22, 10.84.4.191
+    [X-Forwarded-Proto] => https
+    [X-Replit-User-Bio] => 
+    [X-Replit-User-Id] => 
+    [X-Replit-User-Name] => 
+    [X-Replit-User-Profile-Image] => 
+    [X-Replit-User-Roles] => 
+    [X-Replit-User-Teams] => 
+    [X-Replit-User-Url] => 
+)
+
+2025-01-25 15:40:46 Script completed
+2025-01-25 15:49:19 Raw data length: 0
+2025-01-25 15:49:19 Raw data: 
+2025-01-25 15:49:19 Headers: Array
+(
+    [Host] => 15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Accept-Encoding] => identity, gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Referer] => https://15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar1er%3A
+    [Sec-Ch-Ua] => "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Sec-Fetch-Dest] => iframe
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-Site] => same-origin
+    [Upgrade-Insecure-Requests] => 1
+    [X-Forwarded-For] => 43.246.223.22, 10.84.6.55
+    [X-Forwarded-Proto] => https
+    [X-Replit-User-Bio] => 
+    [X-Replit-User-Id] => 
+    [X-Replit-User-Name] => 
+    [X-Replit-User-Profile-Image] => 
+    [X-Replit-User-Roles] => 
+    [X-Replit-User-Teams] => 
+    [X-Replit-User-Url] => 
+)
+
+2025-01-25 15:49:19 Script completed
+2025-01-25 15:50:53 Raw data length: 395
+2025-01-25 15:50:53 Raw data: {"update_id":277504539,
+"message":{"message_id":15,"from":{"id":5921095143,"is_bot":false,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","language_code":"en"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820253,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+2025-01-25 15:50:53 Headers: Array
+(
+    [Host] => 15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev
+    [Content-Length] => 395
+    [Accept-Encoding] => gzip, deflate
+    [Content-Type] => application/json
+    [X-Forwarded-For] => 91.108.5.109, 10.84.7.16
+    [X-Forwarded-Proto] => https
+    [X-Replit-User-Bio] => 
+    [X-Replit-User-Id] => 
+    [X-Replit-User-Name] => 
+    [X-Replit-User-Profile-Image] => 
+    [X-Replit-User-Roles] => 
+    [X-Replit-User-Teams] => 
+    [X-Replit-User-Url] => 
+)
+
+2025-01-25 15:50:54 Send message result: {"ok":true,"result":{"message_id":16,"from":{"id":8195210672,"is_bot":true,"first_name":"checkerbyrich","username":"checkerbyrichbot"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820254,"text":"\ud83e\udd16 Bot is active and working!\n\nSend /help to see available commands.","entities":[{"offset":36,"length":5,"type":"bot_command"}]}}
+2025-01-25 15:50:54 Script completed
+2025-01-25 15:51:00 Raw data length: 394
+2025-01-25 15:51:00 Raw data: {"update_id":277504540,
+"message":{"message_id":17,"from":{"id":5921095143,"is_bot":false,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","language_code":"en"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820260,"text":"/echo","entities":[{"offset":0,"length":5,"type":"bot_command"}]}}
+2025-01-25 15:51:00 Headers: Array
+(
+    [Host] => 15623dfc-be01-4c4e-892e-c0175fe74c42-00-2tyulkkrti1w1.pike.replit.dev
+    [Content-Length] => 394
+    [Accept-Encoding] => gzip, deflate
+    [Content-Type] => application/json
+    [X-Forwarded-For] => 91.108.5.109, 10.84.7.16
+    [X-Forwarded-Proto] => https
+    [X-Replit-User-Bio] => 
+    [X-Replit-User-Id] => 
+    [X-Replit-User-Name] => 
+    [X-Replit-User-Profile-Image] => 
+    [X-Replit-User-Roles] => 
+    [X-Replit-User-Teams] => 
+    [X-Replit-User-Url] => 
+)
+
+2025-01-25 15:51:00 Script completed
+2025-01-25 15:56:18 Raw input: 
+
+2025-01-25 15:56:37 Raw input: Array
+(
+    [update_id] => 277504541
+    [message] => Array
+        (
+            [message_id] => 18
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820596
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:56:37 API Response: {"ok":true,"result":{"message_id":19,"from":{"id":8195210672,"is_bot":true,"first_name":"checkerbyrich","username":"checkerbyrichbot"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820597,"text":"Welcome to the bot! \ud83e\udd16\n\nAvailable commands:\n/start - Show this message\n/ping - Check if bot is alive\n/echo [text] - Echo back your text","entities":[{"offset":44,"length":6,"type":"bot_command"},{"offset":71,"length":5,"type":"bot_command"},{"offset":101,"length":5,"type":"bot_command"}]}}
+Error: 
+
+2025-01-25 15:56:39 Raw input: Array
+(
+    [update_id] => 277504542
+    [message] => Array
+        (
+            [message_id] => 20
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820599
+            [text] => /ping
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 5
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:56:40 API Response: {"ok":true,"result":{"message_id":21,"from":{"id":8195210672,"is_bot":true,"first_name":"checkerbyrich","username":"checkerbyrichbot"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820600,"text":"Pong! \ud83c\udfd3"}}
+Error: 
+
+2025-01-25 15:56:57 Raw input: Array
+(
+    [update_id] => 277504543
+    [message] => Array
+        (
+            [message_id] => 22
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820617
+            [text] => /echo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 5
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:57:04 Raw input: Array
+(
+    [update_id] => 277504544
+    [message] => Array
+        (
+            [message_id] => 23
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820624
+            [text] => /echo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 5
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:57:09 Raw input: Array
+(
+    [update_id] => 277504545
+    [message] => Array
+        (
+            [message_id] => 24
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820628
+            [text] => /ping
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 5
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:57:09 API Response: {"ok":true,"result":{"message_id":25,"from":{"id":8195210672,"is_bot":true,"first_name":"checkerbyrich","username":"checkerbyrichbot"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820629,"text":"Pong! \ud83c\udfd3"}}
+Error: 
+
+2025-01-25 15:57:11 Raw input: Array
+(
+    [update_id] => 277504546
+    [message] => Array
+        (
+            [message_id] => 26
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820631
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:57:12 API Response: {"ok":true,"result":{"message_id":27,"from":{"id":8195210672,"is_bot":true,"first_name":"checkerbyrich","username":"checkerbyrichbot"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820632,"text":"Welcome to the bot! \ud83e\udd16\n\nAvailable commands:\n/start - Show this message\n/ping - Check if bot is alive\n/echo [text] - Echo back your text","entities":[{"offset":44,"length":6,"type":"bot_command"},{"offset":71,"length":5,"type":"bot_command"},{"offset":101,"length":5,"type":"bot_command"}]}}
+Error: 
+
+2025-01-25 15:57:14 Raw input: Array
+(
+    [update_id] => 277504547
+    [message] => Array
+        (
+            [message_id] => 28
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820634
+            [text] => /echo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 5
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:57:19 Raw input: Array
+(
+    [update_id] => 277504548
+    [message] => Array
+        (
+            [message_id] => 29
+            [from] => Array
+                (
+                    [id] => 5921095143
+                    [is_bot] => 
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5921095143
+                    [first_name] => Richard
+                    [last_name] => Carlos
+                    [username] => Richard_carlos27
+                    [type] => private
+                )
+
+            [date] => 1737820639
+            [text] => /echo hello
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 5
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+2025-01-25 15:57:20 API Response: {"ok":true,"result":{"message_id":30,"from":{"id":8195210672,"is_bot":true,"first_name":"checkerbyrich","username":"checkerbyrichbot"},"chat":{"id":5921095143,"first_name":"Richard","last_name":"Carlos","username":"Richard_carlos27","type":"private"},"date":1737820640,"text":"You said: hello"}}
+Error: 
+

@@ -1,0 +1,9 @@
+{
+    "name": "checkerbyrich",
+    "description": "Telegram CC Checker Bot",
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}

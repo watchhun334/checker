@@ -6,8 +6,7 @@ entrypoint = "index.php"
 channel = "stable-22_11"
 
 [deployment]
-run = ["php", "-S", "0.0.0.0:8000", "-t", "."]
-deploymentTarget = "cloudrun"
+run = ["sh", "-c", "php -S 0.0.0.0:8000 -t ."]
 
 [[ports]]
 localPort = 8000
